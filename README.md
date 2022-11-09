@@ -40,3 +40,11 @@ Seguirà un videotutorial che lo studente dovrà consegnare che presenta il prog
 Nel videotutorial sarebbe opportuno inserire il video della dimostrazione del risultato ottenuto, il funzionamento della connessione tramite WIFI mettendo in evidenza i 2 livelli aggiuntivi introdotti, in particolare il livello di rete (IP) e di trasporto (UDP)
 
 Il videotutorial dovrebbe essere consegnato su Classroom.
+
+## Procedura di invio
+1. usare applicazione "UDP Monitor" (per Android) su telefonino
+2. inserire Indirizzo IP dell'Access Point (192.168.4.1) e la porta del UDP Server (4567)
+3. inserire testo
+4. inviare testo (premendo l'appostio pulsante offerto dall'APP)
+
+Risultato: Monitor Seriale dovrebbe mostrare il testo inviato
